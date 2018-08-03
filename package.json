@@ -33,7 +33,7 @@
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-minify": "^0.4.3",
-    "webpack-sources": "^1.1.0"
+    "webpack-sources": "1.0.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
